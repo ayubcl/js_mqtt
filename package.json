@@ -1,0 +1,15 @@
+{
+  "name": "js_mqtt",
+  "version": "1.0.0",
+  "description": "js to use mqtt to publish messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayub@cirruslabs.io",
+  "license": "ISC",
+  "dependencies": {
+    "crc": "^3.8.0",
+    "mqtt": "^2.18.8"
+  }
+}
